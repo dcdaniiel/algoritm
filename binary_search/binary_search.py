@@ -18,4 +18,4 @@ def binary_search(arr, item):
 
 
 
-print(binary_search(range(0, 1000), 347))
+print(binary_search(range(0, 10000), 7689))
